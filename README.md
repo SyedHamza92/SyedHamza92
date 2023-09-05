@@ -1,5 +1,5 @@
-Hi 👋, I’m Syed Hamza Ahmed
-A passionate web developer
+**Hi 👋, I’m Syed Hamza Ahmed
+A passionate web developer**
 - 📫 How to reach me syedhamzaahmed879@gmail.com
 
 <!---
