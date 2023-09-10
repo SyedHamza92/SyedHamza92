@@ -8,8 +8,8 @@
 </head>
 <body>
   <img src="" alt="">
-    <h1 align="center">Hi 👋, I'm Syed Hamza Ahmed</h1>
-<h3 align="center">A passionate Web and App developer</h3>
+    <h1 align="center">Hi 👋, I'm Syed Hamza</h1>
+<h3 align="center">A passionate Javascript developer</h3>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vkreate.in%2Fservices%2Fweb-development&psig=AOvVaw0OQmhCpAUS7r4d-vvU2k4e&ust=1677322295092000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiRmMH-rf0CFQAAAAAdAAAAABAF" alt="">
 
 
