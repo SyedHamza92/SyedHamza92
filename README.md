@@ -32,7 +32,3 @@
   </a>
 </p>
 
-[![Syed Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedhamzaahmed879&show_icons=true&theme=tokyonight)](https://github.com/syedhamzaahmed879)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhamzaahmed879&layout=compact&theme=tokyonight)](https://github.com/syedhamzaahmed879)
-
-
